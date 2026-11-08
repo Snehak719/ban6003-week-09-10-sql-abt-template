@@ -1,0 +1,11 @@
+term,predictor,estimate_brl,std_error_brl_hc3,ci_95_low_brl,ci_95_high_brl,p_value
+Intercept,"Intercept (SP, zero size and weight)",7.62393812,0.15224690,7.32553967,7.92233656,0.00000000
+"C(customer_state_group, Treatment(reference=""SP""))[T.MG]",Minas Gerais vs São Paulo,5.21906630,0.11051582,5.00245928,5.43567332,0.00000000
+"C(customer_state_group, Treatment(reference=""SP""))[T.OTHER]",Other states combined vs São Paulo,12.63889890,0.12433700,12.39520286,12.88259495,0.00000000
+"C(customer_state_group, Treatment(reference=""SP""))[T.PR]",Paraná vs São Paulo,5.31923763,0.16530735,4.99524117,5.64323409,0.00000000
+"C(customer_state_group, Treatment(reference=""SP""))[T.RJ]",Rio de Janeiro vs São Paulo,5.28084313,0.10390495,5.07719317,5.48449308,0.00000000
+"C(customer_state_group, Treatment(reference=""SP""))[T.RS]",Rio Grande do Sul vs São Paulo,6.39750669,0.16818707,6.06786608,6.72714730,0.00000000
+weight_kg,Product weight (per 1 kg),2.34701960,0.04536504,2.25810575,2.43593345,0.00000000
+length_cm,Product length (per 1 cm),0.04530476,0.00487130,0.03575719,0.05485233,0.00000000
+height_cm,Product height (per 1 cm),0.07536318,0.00659985,0.06242771,0.08829864,0.00000000
+width_cm,Product width (per 1 cm),0.01560480,0.00677412,0.00232777,0.02888182,0.02124558

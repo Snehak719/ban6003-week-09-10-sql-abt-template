@@ -1,0 +1,55 @@
+MODULE 3 / Q2: OLIST FREIGHT REGRESSION
+Rows returned by SQL/CSV: 88,863
+Rows excluded: 18
+Rows used in regression: 88,845
+R-squared: 0.480043
+Adjusted R-squared: 0.479991
+OLS with HC3 robust standard errors. SP is the state reference.
+Weight is kg; dimensions cm; freight BRL.
+
+                                                       term                            predictor  estimate_brl  std_error_brl_hc3  ci_95_low_brl  ci_95_high_brl  p_value
+                                                  Intercept Intercept (SP, zero size and weight)      7.623938           0.152247       7.325540        7.922337 0.000000
+   C(customer_state_group, Treatment(reference="SP"))[T.MG]            Minas Gerais vs São Paulo      5.219066           0.110516       5.002459        5.435673 0.000000
+C(customer_state_group, Treatment(reference="SP"))[T.OTHER]   Other states combined vs São Paulo     12.638899           0.124337      12.395203       12.882595 0.000000
+   C(customer_state_group, Treatment(reference="SP"))[T.PR]                  Paraná vs São Paulo      5.319238           0.165307       4.995241        5.643234 0.000000
+   C(customer_state_group, Treatment(reference="SP"))[T.RJ]          Rio de Janeiro vs São Paulo      5.280843           0.103905       5.077193        5.484493 0.000000
+   C(customer_state_group, Treatment(reference="SP"))[T.RS]       Rio Grande do Sul vs São Paulo      6.397507           0.168187       6.067866        6.727147 0.000000
+                                                  weight_kg            Product weight (per 1 kg)      2.347020           0.045365       2.258106        2.435933 0.000000
+                                                  length_cm            Product length (per 1 cm)      0.045305           0.004871       0.035757        0.054852 0.000000
+                                                  height_cm            Product height (per 1 cm)      0.075363           0.006600       0.062428        0.088299 0.000000
+                                                   width_cm             Product width (per 1 cm)      0.015605           0.006774       0.002328        0.028882 0.021246
+
+MODEL SUMMARY
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      freight_value_brl   R-squared:                       0.480
+Model:                            OLS   Adj. R-squared:                  0.480
+Method:                 Least Squares   F-statistic:                     1855.
+Date:                Sun, 08 Nov 2026   Prob (F-statistic):               0.00
+Time:                        23:43:28   Log-Likelihood:            -3.4346e+05
+No. Observations:               88845   AIC:                         6.869e+05
+Df Residuals:                   88835   BIC:                         6.870e+05
+Df Model:                           9                                         
+Covariance Type:                  HC3                                         
+===============================================================================================================================
+                                                                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                       7.6239      0.152     50.076      0.000       7.326       7.922
+C(customer_state_group, Treatment(reference="SP"))[T.MG]        5.2191      0.111     47.225      0.000       5.002       5.436
+C(customer_state_group, Treatment(reference="SP"))[T.OTHER]    12.6389      0.124    101.650      0.000      12.395      12.883
+C(customer_state_group, Treatment(reference="SP"))[T.PR]        5.3192      0.165     32.178      0.000       4.995       5.643
+C(customer_state_group, Treatment(reference="SP"))[T.RJ]        5.2808      0.104     50.824      0.000       5.077       5.484
+C(customer_state_group, Treatment(reference="SP"))[T.RS]        6.3975      0.168     38.038      0.000       6.068       6.727
+weight_kg                                                       2.3470      0.045     51.736      0.000       2.258       2.436
+length_cm                                                       0.0453      0.005      9.300      0.000       0.036       0.055
+height_cm                                                       0.0754      0.007     11.419      0.000       0.062       0.088
+width_cm                                                        0.0156      0.007      2.304      0.021       0.002       0.029
+==============================================================================
+Omnibus:                    93253.851   Durbin-Watson:                   1.984
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18993684.932
+Skew:                           4.884   Prob(JB):                         0.00
+Kurtosis:                      73.961   Cond. No.                         239.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
