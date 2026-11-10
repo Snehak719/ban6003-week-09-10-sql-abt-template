@@ -1,0 +1,1042 @@
+origin,dest,month,flight_count,avg_dep_delay,avg_arr_delay,avg_distance,origin_airport_name,dest_airport_name
+EWR,MCI,1,112,34.33,47.9,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,RIC,6,143,46.67,45.64,277.0,Newark Liberty Intl,Richmond Intl
+EWR,RIC,7,146,39.74,37.66,277.0,Newark Liberty Intl,Richmond Intl
+EWR,RIC,12,145,35.89,37.17,277.0,Newark Liberty Intl,Richmond Intl
+EWR,RIC,1,138,31.31,33.93,277.0,Newark Liberty Intl,Richmond Intl
+EWR,GSO,4,103,33.7,32.97,445.0,Newark Liberty Intl,Piedmont Triad
+JFK,AUS,7,124,31.96,32.4,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+LGA,ATL,7,847,30.02,32.19,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+EWR,MKE,1,104,26.42,31.56,725.0,Newark Liberty Intl,General Mitchell Intl
+EWR,RIC,3,135,30.63,31.54,277.0,Newark Liberty Intl,Richmond Intl
+JFK,JAX,7,124,33.91,31.26,828.0,John F Kennedy Intl,Jacksonville Intl
+EWR,RIC,4,137,32.61,31.21,277.0,Newark Liberty Intl,Richmond Intl
+JFK,SFO,7,699,35.81,31.2,2586.0,John F Kennedy Intl,San Francisco Intl
+EWR,MCI,2,102,27.28,30.79,1092.0,Newark Liberty Intl,Kansas City Intl
+JFK,IAD,12,162,32.58,30.32,228.0,John F Kennedy Intl,Washington Dulles Intl
+EWR,RDU,3,170,33.55,30.2,416.0,Newark Liberty Intl,Raleigh Durham Intl
+EWR,DCA,3,228,27.26,30.08,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+EWR,CVG,7,240,31.65,29.86,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,STL,7,216,34.25,29.32,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,DCA,6,109,29.76,29.26,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+JFK,IAD,7,238,29.93,29.15,228.0,John F Kennedy Intl,Washington Dulles Intl
+JFK,PBI,6,120,26.86,29.1,1028.0,John F Kennedy Intl,Palm Beach Intl
+JFK,ORD,6,209,36.15,28.95,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,PWM,4,104,30.99,28.93,284.0,Newark Liberty Intl,Portland Intl Jetport
+EWR,IND,12,147,25.17,28.91,645.0,Newark Liberty Intl,Indianapolis Intl
+LGA,CLE,6,174,31.74,28.81,419.0,La Guardia,Cleveland Hopkins Intl
+EWR,ATL,7,478,27.36,28.72,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+JFK,ATL,7,186,25.35,28.57,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,MDW,6,165,33.89,28.49,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,PBI,7,124,25.24,28.4,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,STL,12,200,27.68,28.21,872.0,Newark Liberty Intl,Lambert St Louis Intl
+LGA,CLE,7,163,29.75,27.89,419.0,La Guardia,Cleveland Hopkins Intl
+EWR,STL,1,212,25.03,27.82,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,CHS,4,140,24.18,27.69,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,BNA,2,119,27.6,27.67,748.0,Newark Liberty Intl,Nashville Intl
+JFK,BWI,7,114,28.75,27.54,184.0,John F Kennedy Intl,Baltimore Washington Intl
+EWR,MCI,12,112,24.62,27.53,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,MCI,3,114,32.15,27.5,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,CHS,12,114,24.16,26.99,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,DCA,1,227,23.56,26.67,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+EWR,JAX,7,117,28.86,26.62,820.0,Newark Liberty Intl,Jacksonville Intl
+EWR,JAX,2,101,21.33,26.54,820.0,Newark Liberty Intl,Jacksonville Intl
+LGA,ATL,6,826,25.89,26.51,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+EWR,CVG,12,189,23.6,26.43,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+JFK,ORD,7,217,29.57,26.38,740.0,John F Kennedy Intl,Chicago Ohare Intl
+JFK,DTW,7,117,34.44,26.21,509.0,John F Kennedy Intl,Detroit Metro Wayne Co
+LGA,BNA,6,280,28.29,26.02,764.0,La Guardia,Nashville Intl
+JFK,AUS,12,123,21.0,25.52,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+EWR,ATL,12,445,23.07,25.49,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+LGA,MKE,12,152,25.66,25.29,738.0,La Guardia,General Mitchell Intl
+EWR,ATL,6,441,26.94,24.96,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+LGA,MDW,4,171,28.01,24.92,725.0,La Guardia,Chicago Midway Intl
+JFK,SFO,6,684,27.87,24.9,2586.0,John F Kennedy Intl,San Francisco Intl
+EWR,RIC,2,126,24.51,24.84,277.0,Newark Liberty Intl,Richmond Intl
+EWR,BTV,3,119,28.04,24.39,266.0,Newark Liberty Intl,Burlington Intl
+EWR,DCA,2,207,20.61,24.38,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+EWR,ORD,4,491,25.82,24.28,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,ORD,12,378,18.95,24.26,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,PWM,1,142,27.51,24.04,284.0,Newark Liberty Intl,Portland Intl Jetport
+EWR,STL,6,211,27.36,23.95,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,CHS,3,119,24.86,23.81,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,RIC,5,140,25.56,23.66,277.0,Newark Liberty Intl,Richmond Intl
+EWR,CVG,4,229,24.72,23.56,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,JAX,1,110,23.27,23.5,820.0,Newark Liberty Intl,Jacksonville Intl
+JFK,DTW,6,112,33.26,23.46,509.0,John F Kennedy Intl,Detroit Metro Wayne Co
+EWR,CVG,1,222,20.66,23.37,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,MHT,1,109,27.93,23.33,209.0,Newark Liberty Intl,Manchester Regional Airport
+LGA,IAD,7,152,24.5,23.11,229.0,La Guardia,Washington Dulles Intl
+JFK,JAX,6,117,26.13,23.01,828.0,John F Kennedy Intl,Jacksonville Intl
+EWR,MDW,12,173,21.37,22.95,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,BUF,12,286,22.53,22.93,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+JFK,ATL,6,171,22.36,22.92,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+JFK,ROC,7,160,24.67,22.9,264.0,John F Kennedy Intl,Greater Rochester Intl
+EWR,CLE,6,141,27.88,22.85,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,BNA,6,216,27.51,22.7,748.0,Newark Liberty Intl,Nashville Intl
+LGA,IAD,8,150,23.62,22.7,229.0,La Guardia,Washington Dulles Intl
+EWR,CVG,6,223,22.5,22.66,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,BNA,12,201,21.22,22.6,748.0,Newark Liberty Intl,Nashville Intl
+EWR,MCI,4,112,18.88,22.53,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,DCA,4,155,21.65,22.31,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+JFK,DCA,7,281,23.67,22.28,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+EWR,JAX,5,114,25.57,22.21,820.0,Newark Liberty Intl,Jacksonville Intl
+EWR,MCI,5,137,29.35,22.19,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,IAD,7,118,25.31,22.17,212.0,Newark Liberty Intl,Washington Dulles Intl
+EWR,CHS,7,148,24.18,22.15,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,DCA,7,126,26.63,22.12,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+EWR,MKE,4,103,23.32,22.1,725.0,Newark Liberty Intl,General Mitchell Intl
+EWR,DTW,12,225,23.75,22.08,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+LGA,TPA,6,180,23.26,22.02,1010.0,La Guardia,Tampa Intl
+LGA,TPA,4,180,16.82,21.94,1010.0,La Guardia,Tampa Intl
+EWR,IAD,1,122,24.68,21.88,212.0,Newark Liberty Intl,Washington Dulles Intl
+JFK,MSY,7,153,25.36,21.86,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,BUF,7,328,23.59,21.81,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+LGA,MCO,3,310,21.89,21.77,950.0,La Guardia,Orlando Intl
+EWR,MSY,12,101,24.5,21.75,1167.0,Newark Liberty Intl,Louis Armstrong New Orleans Intl
+EWR,CVG,3,224,26.79,21.71,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,DEN,6,264,29.99,21.66,1605.0,Newark Liberty Intl,Denver Intl
+JFK,ROC,6,126,22.9,21.64,264.0,John F Kennedy Intl,Greater Rochester Intl
+LGA,CLT,7,580,19.99,21.46,544.0,La Guardia,Charlotte Douglas Intl
+EWR,PWM,2,129,23.13,21.45,284.0,Newark Liberty Intl,Portland Intl Jetport
+LGA,BNA,12,309,20.35,21.29,764.0,La Guardia,Nashville Intl
+LGA,MCO,4,300,22.27,21.25,950.0,La Guardia,Orlando Intl
+EWR,BNA,4,214,23.12,21.16,748.0,Newark Liberty Intl,Nashville Intl
+JFK,ORD,12,181,22.66,21.12,740.0,John F Kennedy Intl,Chicago Ohare Intl
+JFK,MCO,7,494,24.67,21.11,944.0,John F Kennedy Intl,Orlando Intl
+LGA,BNA,7,291,24.26,20.99,764.0,La Guardia,Nashville Intl
+EWR,CHS,5,150,24.63,20.96,628.0,Newark Liberty Intl,Charleston Afb Intl
+JFK,FLL,7,333,22.46,20.93,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+LGA,MDW,12,177,23.98,20.82,725.0,La Guardia,Chicago Midway Intl
+JFK,FLL,12,385,19.26,20.78,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+EWR,MSP,1,137,18.63,20.75,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+JFK,AUS,6,120,20.32,20.71,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+EWR,PBI,12,269,23.34,20.63,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,TPA,4,239,22.3,20.56,1005.0,John F Kennedy Intl,Tampa Intl
+LGA,DEN,7,317,25.92,20.53,1620.0,La Guardia,Denver Intl
+JFK,PBI,8,124,21.61,20.44,1028.0,John F Kennedy Intl,Palm Beach Intl
+LGA,CLT,6,514,20.16,20.41,544.0,La Guardia,Charlotte Douglas Intl
+JFK,RDU,7,244,22.37,20.41,427.0,John F Kennedy Intl,Raleigh Durham Intl
+EWR,DEN,12,247,24.05,20.14,1605.0,Newark Liberty Intl,Denver Intl
+EWR,RDU,2,140,19.91,20.13,416.0,Newark Liberty Intl,Raleigh Durham Intl
+EWR,FLL,7,269,26.5,20.12,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,SYR,7,124,24.03,19.99,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+JFK,PHL,2,119,19.91,19.95,94.0,John F Kennedy Intl,Philadelphia Intl
+EWR,DCA,5,188,22.24,19.83,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+EWR,MDW,7,174,24.26,19.81,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,PBI,12,171,16.11,19.8,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,IND,6,118,22.16,19.78,645.0,Newark Liberty Intl,Indianapolis Intl
+LGA,DCA,6,395,14.34,19.74,214.0,La Guardia,Ronald Reagan Washington Natl
+EWR,IND,4,119,21.02,19.73,645.0,Newark Liberty Intl,Indianapolis Intl
+LGA,FLL,4,337,16.36,19.71,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,BNA,1,111,16.25,19.68,748.0,Newark Liberty Intl,Nashville Intl
+LGA,MCO,6,321,25.58,19.6,950.0,La Guardia,Orlando Intl
+EWR,RDU,1,166,19.44,19.52,416.0,Newark Liberty Intl,Raleigh Durham Intl
+EWR,IAH,12,348,22.69,19.47,1400.0,Newark Liberty Intl,George Bush Intercontinental
+LGA,STL,12,187,17.52,19.33,888.0,La Guardia,Lambert St Louis Intl
+EWR,DTW,7,282,22.87,19.25,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+JFK,BWI,1,121,24.09,19.19,184.0,John F Kennedy Intl,Baltimore Washington Intl
+LGA,DEN,12,328,15.91,19.16,1620.0,La Guardia,Denver Intl
+EWR,FLL,6,262,25.94,19.11,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,CLT,6,233,14.7,18.99,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,DAY,6,101,23.09,18.94,533.0,Newark Liberty Intl,James M Cox Dayton Intl
+JFK,RDU,12,256,20.73,18.94,427.0,John F Kennedy Intl,Raleigh Durham Intl
+EWR,MHT,2,101,24.52,18.89,209.0,Newark Liberty Intl,Manchester Regional Airport
+LGA,IAD,6,144,21.25,18.86,229.0,La Guardia,Washington Dulles Intl
+LGA,BNA,4,241,13.3,18.82,764.0,La Guardia,Nashville Intl
+EWR,MDW,8,172,20.13,18.81,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,ORD,4,180,28.52,18.66,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,BUF,1,119,23.06,18.61,282.0,Newark Liberty Intl,Buffalo Niagara Intl
+EWR,STL,4,209,20.83,18.59,872.0,Newark Liberty Intl,Lambert St Louis Intl
+LGA,STL,6,145,21.25,18.52,888.0,La Guardia,Lambert St Louis Intl
+JFK,BOS,12,495,21.44,18.49,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+JFK,RDU,5,279,23.69,18.49,427.0,John F Kennedy Intl,Raleigh Durham Intl
+JFK,PHX,6,159,22.84,18.47,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+LGA,FLL,3,372,17.77,18.39,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,LAS,12,124,19.75,18.38,2227.0,Newark Liberty Intl,Mc Carran Intl
+EWR,PHX,12,223,17.21,18.35,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,DTW,6,274,23.04,18.23,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+EWR,PBI,6,154,21.71,18.14,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,FLL,6,309,19.47,18.11,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+LGA,CLE,4,174,18.69,18.06,419.0,La Guardia,Cleveland Hopkins Intl
+EWR,SFO,6,516,24.76,18.02,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,RDU,6,258,19.73,17.94,427.0,John F Kennedy Intl,Raleigh Durham Intl
+LGA,RDU,7,328,17.1,17.91,431.0,La Guardia,Raleigh Durham Intl
+JFK,RSW,12,123,16.61,17.82,1074.0,John F Kennedy Intl,Southwest Florida Intl
+JFK,TPA,7,275,20.1,17.78,1005.0,John F Kennedy Intl,Tampa Intl
+JFK,PBI,3,217,19.26,17.74,1028.0,John F Kennedy Intl,Palm Beach Intl
+JFK,SYR,12,114,19.32,17.73,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+JFK,IAD,6,232,17.83,17.6,228.0,John F Kennedy Intl,Washington Dulles Intl
+LGA,CLE,8,169,19.14,17.57,419.0,La Guardia,Cleveland Hopkins Intl
+EWR,MSP,6,206,26.28,17.56,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,CLE,12,197,18.05,17.5,419.0,La Guardia,Cleveland Hopkins Intl
+JFK,IAD,2,213,16.16,17.44,228.0,John F Kennedy Intl,Washington Dulles Intl
+JFK,SJU,7,465,21.59,17.43,1598.0,John F Kennedy Intl,
+EWR,SFO,7,532,28.67,17.4,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,JAX,2,100,17.94,17.35,828.0,John F Kennedy Intl,Jacksonville Intl
+EWR,MCI,10,115,18.37,17.35,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,MDW,4,170,18.38,17.34,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,AUS,2,108,14.7,17.33,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,DCA,6,273,17.23,17.31,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+JFK,CLT,2,219,15.92,17.26,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,DEN,1,217,13.74,17.21,1605.0,Newark Liberty Intl,Denver Intl
+LGA,FLL,12,350,13.88,17.15,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,BWI,1,176,19.77,17.14,169.0,Newark Liberty Intl,Baltimore Washington Intl
+EWR,BNA,7,221,21.41,17.12,748.0,Newark Liberty Intl,Nashville Intl
+EWR,FLL,12,373,18.17,17.06,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+EWR,LAX,6,502,21.13,17.01,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,TPA,6,249,18.81,17.0,1005.0,John F Kennedy Intl,Tampa Intl
+EWR,GSO,5,107,20.44,16.95,445.0,Newark Liberty Intl,Piedmont Triad
+LGA,FLL,6,330,21.3,16.92,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,CLE,7,142,23.03,16.91,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,TPA,6,174,21.43,16.91,997.0,Newark Liberty Intl,Tampa Intl
+JFK,PWM,7,154,22.71,16.84,273.0,John F Kennedy Intl,Portland Intl Jetport
+EWR,IAD,5,116,21.44,16.78,212.0,Newark Liberty Intl,Washington Dulles Intl
+JFK,BOS,7,524,24.02,16.74,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+JFK,TPA,2,206,18.17,16.62,1005.0,John F Kennedy Intl,Tampa Intl
+EWR,BWI,2,161,18.71,16.59,169.0,Newark Liberty Intl,Baltimore Washington Intl
+LGA,FLL,7,336,20.75,16.52,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,FLL,3,403,18.57,16.52,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,MSY,2,127,19.3,16.47,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,SAN,12,129,14.25,16.45,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,MSY,6,141,22.37,16.43,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,BUF,6,313,18.71,16.42,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,RIC,10,138,16.85,16.34,277.0,Newark Liberty Intl,Richmond Intl
+EWR,STL,3,209,24.78,16.3,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,BTV,1,100,20.53,16.19,266.0,Newark Liberty Intl,Burlington Intl
+EWR,BTV,4,103,21.42,16.19,266.0,Newark Liberty Intl,Burlington Intl
+LGA,MCO,7,335,21.38,16.18,950.0,La Guardia,Orlando Intl
+JFK,BTV,3,116,17.39,16.14,266.0,John F Kennedy Intl,Burlington Intl
+JFK,PIT,7,107,16.08,16.12,340.0,John F Kennedy Intl,Pittsburgh Intl
+EWR,LAX,12,461,18.45,16.1,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,ORD,5,217,31.68,15.93,740.0,John F Kennedy Intl,Chicago Ohare Intl
+LGA,ORD,4,745,18.45,15.93,733.0,La Guardia,Chicago Ohare Intl
+LGA,DCA,7,406,11.99,15.92,214.0,La Guardia,Ronald Reagan Washington Natl
+LGA,CMH,4,164,14.21,15.91,479.0,La Guardia,Port Columbus Intl
+LGA,TPA,3,186,16.71,15.83,1010.0,La Guardia,Tampa Intl
+EWR,MSP,12,188,16.02,15.79,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+EWR,BUF,2,120,20.88,15.76,282.0,Newark Liberty Intl,Buffalo Niagara Intl
+EWR,DTW,1,265,17.9,15.74,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+JFK,CLT,7,241,13.38,15.65,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+JFK,SLC,7,185,20.83,15.62,1990.0,John F Kennedy Intl,Salt Lake City Intl
+EWR,MSP,4,209,20.45,15.62,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,RDU,6,299,16.04,15.59,431.0,La Guardia,Raleigh Durham Intl
+JFK,PIT,6,104,17.11,15.55,340.0,John F Kennedy Intl,Pittsburgh Intl
+JFK,SAN,6,142,15.23,15.53,2446.0,John F Kennedy Intl,San Diego Intl
+EWR,BUF,3,119,21.35,15.46,282.0,Newark Liberty Intl,Buffalo Niagara Intl
+JFK,BTV,12,108,16.46,15.45,266.0,John F Kennedy Intl,Burlington Intl
+JFK,MCO,6,450,16.69,15.44,944.0,John F Kennedy Intl,Orlando Intl
+JFK,RDU,2,252,19.22,15.39,427.0,John F Kennedy Intl,Raleigh Durham Intl
+EWR,GSO,10,111,17.4,15.31,445.0,Newark Liberty Intl,Piedmont Triad
+JFK,MCO,12,451,18.13,15.3,944.0,John F Kennedy Intl,Orlando Intl
+JFK,BWI,4,100,24.96,15.29,184.0,John F Kennedy Intl,Baltimore Washington Intl
+LGA,TPA,7,182,17.83,15.28,1010.0,La Guardia,Tampa Intl
+JFK,ROC,2,158,18.57,15.28,264.0,John F Kennedy Intl,Greater Rochester Intl
+LGA,MKE,10,139,13.88,15.22,738.0,La Guardia,General Mitchell Intl
+LGA,MDW,8,178,24.3,15.13,725.0,La Guardia,Chicago Midway Intl
+EWR,MCI,7,122,20.46,15.12,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,DAY,5,105,20.62,15.07,533.0,Newark Liberty Intl,James M Cox Dayton Intl
+EWR,ORD,6,551,21.53,15.05,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,TPA,12,229,15.62,15.03,997.0,Newark Liberty Intl,Tampa Intl
+JFK,SJU,8,448,17.68,15.03,1598.0,John F Kennedy Intl,
+LGA,RDU,4,290,12.76,15.01,431.0,La Guardia,Raleigh Durham Intl
+LGA,IAD,10,175,15.54,15.01,229.0,La Guardia,Washington Dulles Intl
+JFK,PWM,6,131,18.95,14.97,273.0,John F Kennedy Intl,Portland Intl Jetport
+JFK,ROC,12,119,10.34,14.95,264.0,John F Kennedy Intl,Greater Rochester Intl
+EWR,STL,8,205,18.71,14.87,872.0,Newark Liberty Intl,Lambert St Louis Intl
+JFK,AUS,4,120,14.0,14.85,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,IAD,4,213,17.51,14.78,228.0,John F Kennedy Intl,Washington Dulles Intl
+JFK,PBI,4,192,12.66,14.78,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,STL,2,190,20.51,14.76,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,SEA,12,139,22.43,14.75,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+LGA,CMH,6,160,16.4,14.74,479.0,La Guardia,Port Columbus Intl
+EWR,DEN,7,270,24.36,14.73,1605.0,Newark Liberty Intl,Denver Intl
+LGA,ATL,12,862,13.51,14.69,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,ATL,8,860,14.64,14.61,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,PBI,3,222,15.79,14.58,1035.0,La Guardia,Palm Beach Intl
+JFK,SEA,7,245,18.14,14.51,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+EWR,CLT,12,412,13.64,14.5,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+LGA,IAD,4,139,15.05,14.38,229.0,La Guardia,Washington Dulles Intl
+JFK,BTV,7,124,14.69,14.35,266.0,John F Kennedy Intl,Burlington Intl
+LGA,MDW,6,175,25.47,14.31,725.0,La Guardia,Chicago Midway Intl
+EWR,RDU,4,133,16.36,14.3,416.0,Newark Liberty Intl,Raleigh Durham Intl
+LGA,IAD,3,150,19.53,14.29,229.0,La Guardia,Washington Dulles Intl
+EWR,ATL,4,447,15.15,14.26,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,DEN,8,266,20.18,14.16,1605.0,Newark Liberty Intl,Denver Intl
+JFK,BTV,2,106,16.1,14.16,266.0,John F Kennedy Intl,Burlington Intl
+EWR,DAY,10,107,17.74,14.15,533.0,Newark Liberty Intl,James M Cox Dayton Intl
+JFK,CHS,7,114,20.0,14.15,636.0,John F Kennedy Intl,Charleston Afb Intl
+EWR,CVG,2,201,12.95,14.04,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+LGA,DTW,7,438,21.31,14.03,502.0,La Guardia,Detroit Metro Wayne Co
+EWR,CLT,6,433,15.09,13.96,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+LGA,IAD,1,143,17.43,13.94,229.0,La Guardia,Washington Dulles Intl
+LGA,MSP,4,309,14.12,13.93,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,CLT,4,413,12.01,13.9,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+EWR,CLT,7,439,14.5,13.89,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+EWR,DFW,4,276,19.87,13.83,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,SAN,7,149,19.16,13.83,2446.0,John F Kennedy Intl,San Diego Intl
+EWR,ATL,8,460,14.89,13.78,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,SAN,6,111,20.53,13.77,2425.0,Newark Liberty Intl,San Diego Intl
+EWR,ORD,7,564,20.54,13.76,719.0,Newark Liberty Intl,Chicago Ohare Intl
+JFK,BWI,2,112,17.84,13.68,184.0,John F Kennedy Intl,Baltimore Washington Intl
+LGA,RDU,12,279,13.01,13.67,431.0,La Guardia,Raleigh Durham Intl
+JFK,DCA,12,273,18.18,13.66,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+LGA,IAD,5,148,19.42,13.64,229.0,La Guardia,Washington Dulles Intl
+LGA,MKE,6,117,23.08,13.63,738.0,La Guardia,General Mitchell Intl
+EWR,DCA,8,105,16.52,13.59,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+LGA,IAD,12,142,15.68,13.57,229.0,La Guardia,Washington Dulles Intl
+LGA,PBI,7,184,18.93,13.56,1035.0,La Guardia,Palm Beach Intl
+JFK,PBI,2,172,10.64,13.54,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,MCI,8,122,16.27,13.53,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,IAH,4,331,13.7,13.47,1400.0,Newark Liberty Intl,George Bush Intercontinental
+JFK,PIT,2,126,20.5,13.45,340.0,John F Kennedy Intl,Pittsburgh Intl
+EWR,MIA,12,240,18.86,13.31,1085.0,Newark Liberty Intl,Miami Intl
+LGA,CMH,7,167,12.35,13.16,479.0,La Guardia,Port Columbus Intl
+LGA,DEN,4,310,11.13,13.05,1620.0,La Guardia,Denver Intl
+EWR,MDW,1,174,10.22,13.05,711.0,Newark Liberty Intl,Chicago Midway Intl
+EWR,BOS,12,395,15.99,13.03,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+JFK,FLL,4,380,15.22,12.97,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+EWR,BOS,6,444,23.29,12.95,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+EWR,CLT,3,450,16.79,12.95,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+EWR,BOS,7,482,19.58,12.73,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+JFK,ORD,2,168,21.54,12.68,740.0,John F Kennedy Intl,Chicago Ohare Intl
+LGA,PBI,4,206,11.52,12.67,1035.0,La Guardia,Palm Beach Intl
+EWR,MIA,6,208,14.2,12.63,1085.0,Newark Liberty Intl,Miami Intl
+EWR,BTV,6,117,21.09,12.63,266.0,Newark Liberty Intl,Burlington Intl
+LGA,ATL,4,892,7.58,12.63,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+JFK,IAD,5,242,16.22,12.6,228.0,John F Kennedy Intl,Washington Dulles Intl
+JFK,SYR,6,116,14.78,12.58,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+EWR,IAH,7,338,17.25,12.58,1400.0,Newark Liberty Intl,George Bush Intercontinental
+JFK,ROC,1,172,15.8,12.56,264.0,John F Kennedy Intl,Greater Rochester Intl
+EWR,DTW,4,270,17.47,12.55,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+LGA,CLT,12,535,11.71,12.53,544.0,La Guardia,Charlotte Douglas Intl
+LGA,DEN,6,312,20.6,12.52,1620.0,La Guardia,Denver Intl
+EWR,CMH,4,110,15.22,12.51,463.0,Newark Liberty Intl,Port Columbus Intl
+EWR,MIA,7,212,17.3,12.5,1085.0,Newark Liberty Intl,Miami Intl
+EWR,CLT,2,378,10.38,12.49,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+JFK,JAX,8,124,18.63,12.43,828.0,John F Kennedy Intl,Jacksonville Intl
+EWR,PBI,4,250,16.35,12.42,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,LAS,6,360,17.73,12.4,2248.0,John F Kennedy Intl,Mc Carran Intl
+EWR,ORD,5,549,19.52,12.35,719.0,Newark Liberty Intl,Chicago Ohare Intl
+JFK,PHL,1,138,14.67,12.3,94.0,John F Kennedy Intl,Philadelphia Intl
+LGA,MSP,7,321,19.54,12.19,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,CVG,5,233,16.84,12.15,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,TPA,7,176,23.31,12.13,997.0,Newark Liberty Intl,Tampa Intl
+JFK,RDU,3,278,18.6,12.07,427.0,John F Kennedy Intl,Raleigh Durham Intl
+LGA,MDW,7,182,25.88,12.07,725.0,La Guardia,Chicago Midway Intl
+EWR,CVG,8,245,16.79,12.0,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+LGA,IAH,4,250,6.95,12.0,1416.0,La Guardia,George Bush Intercontinental
+EWR,CHS,6,122,13.61,11.93,628.0,Newark Liberty Intl,Charleston Afb Intl
+JFK,TPA,3,248,14.76,11.89,1005.0,John F Kennedy Intl,Tampa Intl
+JFK,IAD,1,225,12.18,11.88,228.0,John F Kennedy Intl,Washington Dulles Intl
+EWR,DEN,4,216,13.75,11.85,1605.0,Newark Liberty Intl,Denver Intl
+JFK,BOS,6,503,19.23,11.83,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+JFK,AUS,1,118,11.87,11.79,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,MSY,12,143,13.36,11.75,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+EWR,STL,5,224,22.67,11.67,872.0,Newark Liberty Intl,Lambert St Louis Intl
+JFK,SEA,6,221,16.99,11.58,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+EWR,CLE,12,123,16.93,11.57,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+LGA,FLL,2,325,11.85,11.55,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,BNA,3,185,19.19,11.5,748.0,Newark Liberty Intl,Nashville Intl
+EWR,SJU,7,124,13.91,11.46,1608.0,Newark Liberty Intl,
+EWR,PBI,7,159,17.33,11.45,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,BTV,6,120,12.96,11.44,266.0,John F Kennedy Intl,Burlington Intl
+EWR,ORD,8,582,15.32,11.44,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,MCO,12,443,14.86,11.44,937.0,Newark Liberty Intl,Orlando Intl
+EWR,ATL,3,404,16.62,11.41,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,IAH,6,330,20.05,11.33,1400.0,Newark Liberty Intl,George Bush Intercontinental
+EWR,TPA,8,173,19.89,11.3,997.0,Newark Liberty Intl,Tampa Intl
+JFK,DCA,5,279,17.1,11.3,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+EWR,RDU,10,120,13.03,11.29,416.0,Newark Liberty Intl,Raleigh Durham Intl
+LGA,TPA,2,164,10.41,11.28,1010.0,La Guardia,Tampa Intl
+JFK,ORD,1,184,16.79,11.24,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,BNA,8,222,16.15,11.21,748.0,Newark Liberty Intl,Nashville Intl
+EWR,RIC,8,147,12.01,11.2,277.0,Newark Liberty Intl,Richmond Intl
+EWR,ATL,2,328,12.58,11.14,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,MCO,6,389,17.19,11.08,937.0,Newark Liberty Intl,Orlando Intl
+LGA,BNA,5,273,15.39,11.07,764.0,La Guardia,Nashville Intl
+JFK,MIA,7,282,15.62,11.05,1089.0,John F Kennedy Intl,Miami Intl
+JFK,SYR,5,123,14.13,11.03,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+EWR,STL,10,223,13.6,11.01,872.0,Newark Liberty Intl,Lambert St Louis Intl
+JFK,IAD,3,243,14.53,11.0,228.0,John F Kennedy Intl,Washington Dulles Intl
+EWR,IND,8,120,12.84,10.99,645.0,Newark Liberty Intl,Indianapolis Intl
+JFK,PHX,7,154,16.95,10.96,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,LAS,7,354,18.18,10.93,2248.0,John F Kennedy Intl,Mc Carran Intl
+EWR,RSW,12,141,13.78,10.9,1068.0,Newark Liberty Intl,Southwest Florida Intl
+JFK,LAX,6,928,15.06,10.86,2475.0,John F Kennedy Intl,Los Angeles Intl
+EWR,MCO,7,428,17.32,10.79,937.0,Newark Liberty Intl,Orlando Intl
+EWR,BTV,5,110,14.94,10.75,266.0,Newark Liberty Intl,Burlington Intl
+JFK,PHL,3,119,15.18,10.73,94.0,John F Kennedy Intl,Philadelphia Intl
+LGA,PBI,6,180,13.37,10.72,1035.0,La Guardia,Palm Beach Intl
+EWR,RDU,7,130,14.74,10.7,416.0,Newark Liberty Intl,Raleigh Durham Intl
+JFK,RDU,4,267,10.83,10.68,427.0,John F Kennedy Intl,Raleigh Durham Intl
+EWR,PBI,3,269,16.71,10.63,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,SJU,12,450,15.26,10.63,1598.0,John F Kennedy Intl,
+LGA,ORD,12,637,10.37,10.6,733.0,La Guardia,Chicago Ohare Intl
+JFK,FLL,3,463,13.67,10.6,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+JFK,ORD,8,217,19.04,10.55,740.0,John F Kennedy Intl,Chicago Ohare Intl
+JFK,BUF,2,271,14.27,10.52,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,DTW,3,257,20.78,10.51,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+EWR,JAX,8,118,16.41,10.46,820.0,Newark Liberty Intl,Jacksonville Intl
+EWR,PBI,8,143,17.15,10.45,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,TPA,12,282,11.44,10.42,1005.0,John F Kennedy Intl,Tampa Intl
+JFK,MIA,6,273,13.44,10.38,1089.0,John F Kennedy Intl,Miami Intl
+EWR,MSY,5,143,23.54,10.27,1167.0,Newark Liberty Intl,Louis Armstrong New Orleans Intl
+JFK,BUF,3,249,13.96,10.26,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+LGA,MSP,12,312,8.61,10.17,1020.0,La Guardia,Minneapolis St Paul Intl
+JFK,IAD,8,227,15.49,10.16,228.0,John F Kennedy Intl,Washington Dulles Intl
+EWR,MDW,5,172,16.98,10.16,711.0,Newark Liberty Intl,Chicago Midway Intl
+LGA,MDW,11,166,16.88,10.15,725.0,La Guardia,Chicago Midway Intl
+LGA,DCA,4,412,6.93,10.14,214.0,La Guardia,Ronald Reagan Washington Natl
+LGA,CLT,4,462,6.85,10.13,544.0,La Guardia,Charlotte Douglas Intl
+LGA,ATL,5,925,12.66,10.12,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+EWR,MSP,7,222,20.32,10.09,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+EWR,DFW,12,232,12.35,10.06,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,SYR,2,105,15.49,10.02,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+EWR,MSP,2,119,19.45,9.93,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+EWR,BNA,5,228,17.9,9.79,748.0,Newark Liberty Intl,Nashville Intl
+EWR,CHS,8,122,12.78,9.78,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,RIC,11,133,10.91,9.75,277.0,Newark Liberty Intl,Richmond Intl
+EWR,IAD,10,137,12.83,9.73,212.0,Newark Liberty Intl,Washington Dulles Intl
+LGA,MCO,2,272,10.39,9.7,950.0,La Guardia,Orlando Intl
+JFK,ROC,4,144,15.07,9.7,264.0,John F Kennedy Intl,Greater Rochester Intl
+LGA,DFW,6,391,17.98,9.7,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,DTW,5,283,14.74,9.67,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+EWR,CLT,1,381,8.59,9.58,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+JFK,MCO,4,471,10.29,9.51,944.0,John F Kennedy Intl,Orlando Intl
+EWR,ORD,1,502,11.13,9.51,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,SEA,4,125,15.0,9.5,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+LGA,MIA,4,470,11.26,9.49,1096.0,La Guardia,Miami Intl
+EWR,SEA,1,128,11.87,9.48,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+LGA,TPA,12,187,13.35,9.4,1010.0,La Guardia,Tampa Intl
+LGA,IAD,2,130,16.04,9.3,229.0,La Guardia,Washington Dulles Intl
+LGA,TPA,5,181,14.8,9.29,1010.0,La Guardia,Tampa Intl
+EWR,SJU,12,102,15.94,9.29,1608.0,Newark Liberty Intl,
+LGA,CLT,8,578,13.11,9.28,544.0,La Guardia,Charlotte Douglas Intl
+JFK,PIT,5,103,14.73,9.26,340.0,John F Kennedy Intl,Pittsburgh Intl
+JFK,SLC,12,167,10.15,9.25,1990.0,John F Kennedy Intl,Salt Lake City Intl
+LGA,RSW,4,103,5.22,9.23,1080.0,La Guardia,Southwest Florida Intl
+JFK,MSY,8,154,14.13,9.19,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,MSY,4,123,13.65,9.18,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,BUF,1,299,10.72,9.18,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,MDW,9,167,14.37,9.1,711.0,Newark Liberty Intl,Chicago Midway Intl
+EWR,PHX,6,240,14.26,9.06,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,MSP,3,165,21.23,9.06,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,PBI,1,209,13.93,9.02,1035.0,La Guardia,Palm Beach Intl
+LGA,PIT,9,116,12.5,8.98,335.0,La Guardia,Pittsburgh Intl
+LGA,BNA,1,226,10.81,8.98,764.0,La Guardia,Nashville Intl
+JFK,FLL,2,402,9.74,8.97,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+LGA,BNA,8,283,12.46,8.92,764.0,La Guardia,Nashville Intl
+JFK,DCA,8,281,12.55,8.91,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+LGA,DEN,11,299,8.61,8.87,1620.0,La Guardia,Denver Intl
+LGA,MKE,9,129,17.58,8.84,738.0,La Guardia,General Mitchell Intl
+LGA,DEN,1,294,7.95,8.82,1620.0,La Guardia,Denver Intl
+JFK,PHX,12,175,12.37,8.78,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,CLT,12,246,8.0,8.78,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+LGA,RDU,5,295,12.86,8.71,431.0,La Guardia,Raleigh Durham Intl
+JFK,LAX,7,985,17.35,8.63,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,AUS,3,146,12.36,8.62,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+EWR,MDW,3,177,16.51,8.6,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,ATL,12,156,11.75,8.59,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,FLL,8,263,17.34,8.58,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,BOS,5,493,15.06,8.49,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+LGA,IAH,6,250,17.3,8.48,1416.0,La Guardia,George Bush Intercontinental
+EWR,MDW,10,174,12.64,8.46,711.0,Newark Liberty Intl,Chicago Midway Intl
+EWR,FLL,4,395,10.55,8.44,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+EWR,IAH,2,294,7.86,8.43,1400.0,Newark Liberty Intl,George Bush Intercontinental
+JFK,ROC,5,122,12.23,8.43,264.0,John F Kennedy Intl,Greater Rochester Intl
+JFK,BUF,4,242,14.92,8.39,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,MIA,3,244,13.9,8.35,1085.0,Newark Liberty Intl,Miami Intl
+JFK,SEA,12,154,12.14,8.31,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,CLT,1,240,10.01,8.25,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,SEA,7,186,20.95,8.24,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+EWR,DTW,8,282,12.66,8.17,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+EWR,LAS,4,148,13.88,8.16,2227.0,Newark Liberty Intl,Mc Carran Intl
+JFK,MCO,8,493,15.76,8.13,944.0,John F Kennedy Intl,Orlando Intl
+LGA,IAD,11,162,8.33,8.13,229.0,La Guardia,Washington Dulles Intl
+JFK,LAX,12,947,9.35,8.12,2475.0,John F Kennedy Intl,Los Angeles Intl
+EWR,BOS,3,448,14.18,8.09,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+LGA,MDW,10,182,11.96,8.06,725.0,La Guardia,Chicago Midway Intl
+LGA,ORD,6,787,20.39,8.03,733.0,La Guardia,Chicago Ohare Intl
+EWR,TPA,5,203,17.54,7.82,997.0,Newark Liberty Intl,Tampa Intl
+LGA,FLL,1,352,12.07,7.81,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+LGA,STL,7,150,11.62,7.8,888.0,La Guardia,Lambert St Louis Intl
+EWR,CHS,10,124,9.18,7.78,628.0,Newark Liberty Intl,Charleston Afb Intl
+EWR,MKE,5,105,14.54,7.76,725.0,Newark Liberty Intl,General Mitchell Intl
+LGA,PBI,12,312,12.6,7.75,1035.0,La Guardia,Palm Beach Intl
+JFK,IAD,11,223,13.01,7.73,228.0,John F Kennedy Intl,Washington Dulles Intl
+JFK,JAX,4,120,13.56,7.72,828.0,John F Kennedy Intl,Jacksonville Intl
+JFK,RDU,1,282,12.26,7.7,427.0,John F Kennedy Intl,Raleigh Durham Intl
+LGA,PBI,2,190,8.81,7.7,1035.0,La Guardia,Palm Beach Intl
+LGA,DTW,6,421,14.16,7.66,502.0,La Guardia,Detroit Metro Wayne Co
+JFK,SLC,6,181,13.7,7.6,1990.0,John F Kennedy Intl,Salt Lake City Intl
+EWR,BOS,5,458,15.75,7.6,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+LGA,DCA,8,414,8.43,7.57,214.0,La Guardia,Ronald Reagan Washington Natl
+JFK,SJU,6,393,14.53,7.57,1598.0,John F Kennedy Intl,
+JFK,BTV,8,124,9.57,7.52,266.0,John F Kennedy Intl,Burlington Intl
+JFK,ORD,3,186,20.41,7.49,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,SAN,7,117,23.99,7.46,2425.0,Newark Liberty Intl,San Diego Intl
+LGA,MDW,9,172,17.22,7.45,725.0,La Guardia,Chicago Midway Intl
+JFK,CLT,8,228,9.21,7.44,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+LGA,MKE,8,117,18.74,7.42,738.0,La Guardia,General Mitchell Intl
+JFK,ROC,8,151,13.74,7.42,264.0,John F Kennedy Intl,Greater Rochester Intl
+LGA,BNA,11,286,7.44,7.38,764.0,La Guardia,Nashville Intl
+EWR,SFO,12,481,15.37,7.37,2565.0,Newark Liberty Intl,San Francisco Intl
+EWR,LAX,7,515,18.05,7.35,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,RSW,2,149,10.28,7.28,1074.0,John F Kennedy Intl,Southwest Florida Intl
+LGA,IAH,12,228,13.93,7.25,1416.0,La Guardia,George Bush Intercontinental
+EWR,ATL,5,419,11.75,7.22,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,ATL,11,403,8.81,7.22,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,RIC,9,139,11.14,7.19,277.0,Newark Liberty Intl,Richmond Intl
+LGA,CMH,8,166,9.88,7.17,479.0,La Guardia,Port Columbus Intl
+JFK,AUS,8,123,15.64,7.16,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+LGA,CMH,12,181,10.24,7.15,479.0,La Guardia,Port Columbus Intl
+EWR,TPA,2,188,10.21,7.15,997.0,Newark Liberty Intl,Tampa Intl
+LGA,BNA,2,212,10.84,7.14,764.0,La Guardia,Nashville Intl
+EWR,DFW,6,245,19.3,7.14,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,PIT,1,150,10.96,7.07,340.0,John F Kennedy Intl,Pittsburgh Intl
+JFK,MSY,1,125,13.11,7.07,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+LGA,MIA,12,575,11.53,7.06,1096.0,La Guardia,Miami Intl
+LGA,MSP,5,314,12.47,6.99,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,BNA,10,200,11.92,6.99,748.0,Newark Liberty Intl,Nashville Intl
+LGA,DEN,8,316,12.54,6.97,1620.0,La Guardia,Denver Intl
+LGA,DCA,12,321,5.33,6.96,214.0,La Guardia,Ronald Reagan Washington Natl
+LGA,MSP,6,308,12.24,6.96,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,JAX,10,116,13.59,6.95,820.0,Newark Liberty Intl,Jacksonville Intl
+EWR,STL,11,203,9.74,6.93,872.0,Newark Liberty Intl,Lambert St Louis Intl
+LGA,ATL,3,889,9.94,6.93,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,MSP,1,316,6.65,6.91,1020.0,La Guardia,Minneapolis St Paul Intl
+LGA,MCO,12,325,8.26,6.83,950.0,La Guardia,Orlando Intl
+JFK,JAX,5,120,17.32,6.79,828.0,John F Kennedy Intl,Jacksonville Intl
+JFK,TPA,8,278,12.92,6.76,1005.0,John F Kennedy Intl,Tampa Intl
+LGA,FLL,8,340,13.37,6.72,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+JFK,RSW,4,148,9.36,6.72,1074.0,John F Kennedy Intl,Southwest Florida Intl
+EWR,CLE,4,145,13.48,6.72,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+LGA,MDW,5,177,18.02,6.68,725.0,La Guardia,Chicago Midway Intl
+EWR,DCA,11,102,6.25,6.67,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+LGA,PIT,10,145,17.44,6.66,335.0,La Guardia,Pittsburgh Intl
+EWR,ATL,1,362,8.07,6.64,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,SFO,4,453,16.46,6.61,2565.0,Newark Liberty Intl,San Francisco Intl
+LGA,DFW,4,415,4.85,6.56,1389.0,La Guardia,Dallas Fort Worth Intl
+JFK,DCA,4,270,10.67,6.53,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+EWR,MCO,1,422,12.79,6.49,937.0,Newark Liberty Intl,Orlando Intl
+JFK,ATL,8,187,12.96,6.43,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+LGA,CLE,2,162,9.95,6.39,419.0,La Guardia,Cleveland Hopkins Intl
+LGA,CMH,2,152,6.77,6.37,479.0,La Guardia,Port Columbus Intl
+JFK,LAS,12,309,6.92,6.35,2248.0,John F Kennedy Intl,Mc Carran Intl
+EWR,PHX,4,215,13.02,6.35,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,DTW,2,248,10.66,6.32,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+JFK,ROC,3,176,10.62,6.25,264.0,John F Kennedy Intl,Greater Rochester Intl
+JFK,MSY,3,124,13.84,6.22,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+EWR,PHX,8,232,10.76,6.2,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+JFK,RDU,8,246,11.02,6.18,427.0,John F Kennedy Intl,Raleigh Durham Intl
+LGA,RDU,8,325,7.81,6.16,431.0,La Guardia,Raleigh Durham Intl
+EWR,SEA,6,177,20.1,6.16,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+LGA,MCO,8,340,13.36,6.15,950.0,La Guardia,Orlando Intl
+LGA,MKE,7,120,19.69,6.14,738.0,La Guardia,General Mitchell Intl
+LGA,MKE,11,143,8.17,6.14,738.0,La Guardia,General Mitchell Intl
+LGA,DTW,12,416,9.52,6.13,502.0,La Guardia,Detroit Metro Wayne Co
+LGA,STL,4,147,9.42,6.12,888.0,La Guardia,Lambert St Louis Intl
+EWR,SJU,8,113,7.44,6.12,1608.0,Newark Liberty Intl,
+EWR,FLL,2,346,6.9,6.1,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,CLT,3,238,9.37,6.09,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+JFK,BTV,9,119,6.9,6.08,266.0,John F Kennedy Intl,Burlington Intl
+JFK,DCA,1,277,11.5,6.07,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+LGA,IAH,7,249,18.34,6.07,1416.0,La Guardia,George Bush Intercontinental
+JFK,BUF,8,326,11.92,6.06,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+LGA,MKE,4,111,16.2,6.04,738.0,La Guardia,General Mitchell Intl
+LGA,MSP,9,301,8.68,6.02,1020.0,La Guardia,Minneapolis St Paul Intl
+LGA,RSW,3,147,8.72,5.97,1080.0,La Guardia,Southwest Florida Intl
+EWR,MCO,2,418,9.64,5.9,937.0,Newark Liberty Intl,Orlando Intl
+EWR,BOS,4,439,14.86,5.88,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+JFK,PIT,8,106,11.35,5.88,340.0,John F Kennedy Intl,Pittsburgh Intl
+LGA,PBI,8,185,12.47,5.87,1035.0,La Guardia,Palm Beach Intl
+LGA,MIA,3,488,9.26,5.79,1096.0,La Guardia,Miami Intl
+LGA,MDW,1,166,9.86,5.74,725.0,La Guardia,Chicago Midway Intl
+LGA,RDU,2,257,5.52,5.74,431.0,La Guardia,Raleigh Durham Intl
+EWR,TPA,4,229,11.91,5.73,997.0,Newark Liberty Intl,Tampa Intl
+LGA,RDU,11,280,4.41,5.7,431.0,La Guardia,Raleigh Durham Intl
+EWR,MIA,4,231,10.9,5.7,1085.0,Newark Liberty Intl,Miami Intl
+JFK,BOS,2,447,12.88,5.69,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+EWR,MCI,11,107,7.91,5.68,1092.0,Newark Liberty Intl,Kansas City Intl
+EWR,RDU,5,133,12.71,5.67,416.0,Newark Liberty Intl,Raleigh Durham Intl
+EWR,RSW,4,198,11.44,5.67,1068.0,Newark Liberty Intl,Southwest Florida Intl
+EWR,GSO,11,106,8.38,5.63,445.0,Newark Liberty Intl,Piedmont Triad
+EWR,MCO,8,429,14.67,5.62,937.0,Newark Liberty Intl,Orlando Intl
+JFK,SFO,4,663,12.67,5.54,2586.0,John F Kennedy Intl,San Francisco Intl
+JFK,BTV,5,117,9.42,5.53,266.0,John F Kennedy Intl,Burlington Intl
+JFK,BOS,4,478,12.97,5.53,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+LGA,DCA,5,415,5.83,5.52,214.0,La Guardia,Ronald Reagan Washington Natl
+EWR,DCA,9,107,11.82,5.51,199.0,Newark Liberty Intl,Ronald Reagan Washington Natl
+JFK,BUF,5,306,13.08,5.47,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,TPA,1,206,9.42,5.47,997.0,Newark Liberty Intl,Tampa Intl
+EWR,MCO,4,452,7.83,5.46,937.0,Newark Liberty Intl,Orlando Intl
+LGA,BOS,7,372,4.15,5.36,184.0,La Guardia,General Edward Lawrence Logan Intl
+EWR,MSP,10,275,10.63,5.35,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,ATL,11,830,4.76,5.34,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,TPA,8,185,8.87,5.34,1010.0,La Guardia,Tampa Intl
+EWR,LAX,1,222,8.43,5.33,2454.0,Newark Liberty Intl,Los Angeles Intl
+EWR,DFW,1,307,8.49,5.27,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,PBI,5,124,9.73,5.26,1028.0,John F Kennedy Intl,Palm Beach Intl
+JFK,RSW,1,135,13.53,5.24,1074.0,John F Kennedy Intl,Southwest Florida Intl
+EWR,LAX,4,447,10.83,5.21,2454.0,Newark Liberty Intl,Los Angeles Intl
+EWR,DEN,2,196,13.88,5.17,1605.0,Newark Liberty Intl,Denver Intl
+EWR,PHX,7,245,16.26,5.15,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,LAS,1,175,10.43,5.12,2227.0,Newark Liberty Intl,Mc Carran Intl
+EWR,CLT,5,439,8.8,5.11,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+JFK,FLL,8,336,12.17,5.11,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+EWR,DFW,7,256,12.72,5.08,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,SYR,1,109,9.49,5.07,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+EWR,SEA,3,155,14.35,5.05,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+JFK,IAD,10,209,9.53,4.99,228.0,John F Kennedy Intl,Washington Dulles Intl
+LGA,STL,10,175,9.22,4.96,888.0,La Guardia,Lambert St Louis Intl
+JFK,LAS,8,362,12.65,4.95,2248.0,John F Kennedy Intl,Mc Carran Intl
+LGA,ATL,9,803,9.0,4.94,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,CLT,10,610,6.94,4.89,544.0,La Guardia,Charlotte Douglas Intl
+LGA,DTW,4,415,6.31,4.89,502.0,La Guardia,Detroit Metro Wayne Co
+JFK,DCA,2,252,13.94,4.84,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+EWR,PHX,10,211,5.67,4.83,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+JFK,ATL,1,156,9.21,4.81,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,CVG,10,236,8.11,4.78,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+EWR,CLT,8,428,7.71,4.72,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+LGA,RDU,3,309,6.18,4.7,431.0,La Guardia,Raleigh Durham Intl
+LGA,MIA,6,473,10.82,4.66,1096.0,La Guardia,Miami Intl
+JFK,SFO,12,698,8.95,4.59,2586.0,John F Kennedy Intl,San Francisco Intl
+EWR,SFO,8,541,14.32,4.58,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,BWI,8,114,9.42,4.58,184.0,John F Kennedy Intl,Baltimore Washington Intl
+JFK,SYR,8,125,11.7,4.57,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+LGA,MDW,3,170,19.96,4.56,725.0,La Guardia,Chicago Midway Intl
+JFK,ROC,9,117,8.2,4.56,264.0,John F Kennedy Intl,Greater Rochester Intl
+EWR,IAH,1,309,6.09,4.54,1400.0,Newark Liberty Intl,George Bush Intercontinental
+EWR,MSP,8,206,10.69,4.53,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,BNA,10,316,8.54,4.52,764.0,La Guardia,Nashville Intl
+EWR,MDW,11,163,9.33,4.51,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,TPA,5,236,10.29,4.47,1005.0,John F Kennedy Intl,Tampa Intl
+LGA,STL,8,147,9.88,4.45,888.0,La Guardia,Lambert St Louis Intl
+JFK,PHX,4,179,8.42,4.44,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+EWR,MIA,2,222,7.45,4.44,1085.0,Newark Liberty Intl,Miami Intl
+JFK,PWM,8,154,9.4,4.43,273.0,John F Kennedy Intl,Portland Intl Jetport
+EWR,PBI,2,243,7.64,4.43,1023.0,Newark Liberty Intl,Palm Beach Intl
+EWR,DTW,11,245,11.26,4.38,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+LGA,CLT,1,437,4.03,4.38,544.0,La Guardia,Charlotte Douglas Intl
+JFK,LAS,4,324,10.55,4.35,2248.0,John F Kennedy Intl,Mc Carran Intl
+EWR,TPA,3,222,11.84,4.34,997.0,Newark Liberty Intl,Tampa Intl
+JFK,PWM,5,124,9.15,4.33,273.0,John F Kennedy Intl,Portland Intl Jetport
+EWR,IAD,11,103,10.14,4.32,212.0,Newark Liberty Intl,Washington Dulles Intl
+JFK,RSW,3,186,9.62,4.31,1074.0,John F Kennedy Intl,Southwest Florida Intl
+LGA,RDU,10,309,3.93,4.24,431.0,La Guardia,Raleigh Durham Intl
+EWR,CLE,5,128,13.83,4.19,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,FLL,5,269,14.23,4.19,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+LGA,STL,11,164,5.32,4.18,888.0,La Guardia,Lambert St Louis Intl
+JFK,BUF,11,275,7.44,4.16,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+LGA,ORD,1,583,7.93,4.14,733.0,La Guardia,Chicago Ohare Intl
+LGA,CMH,11,180,4.07,4.13,479.0,La Guardia,Port Columbus Intl
+LGA,FLL,5,337,10.98,4.09,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+JFK,PIT,9,101,10.34,4.08,340.0,John F Kennedy Intl,Pittsburgh Intl
+JFK,MCO,2,420,6.88,4.03,944.0,John F Kennedy Intl,Orlando Intl
+JFK,CLT,4,238,4.79,4.03,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,IND,11,178,5.66,4.01,645.0,Newark Liberty Intl,Indianapolis Intl
+LGA,PBI,5,182,12.42,4.01,1035.0,La Guardia,Palm Beach Intl
+JFK,MCO,5,455,8.31,3.97,944.0,John F Kennedy Intl,Orlando Intl
+EWR,IND,10,149,5.52,3.92,645.0,Newark Liberty Intl,Indianapolis Intl
+JFK,FLL,5,313,11.51,3.92,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+LGA,TPA,1,179,7.21,3.88,1010.0,La Guardia,Tampa Intl
+LGA,IAH,1,255,8.78,3.69,1416.0,La Guardia,George Bush Intercontinental
+LGA,MIA,2,424,7.01,3.65,1096.0,La Guardia,Miami Intl
+JFK,JAX,3,124,8.43,3.63,828.0,John F Kennedy Intl,Jacksonville Intl
+LGA,RDU,1,285,2.38,3.63,431.0,La Guardia,Raleigh Durham Intl
+EWR,MIA,1,248,10.69,3.62,1085.0,Newark Liberty Intl,Miami Intl
+LGA,CMH,1,170,2.5,3.6,479.0,La Guardia,Port Columbus Intl
+EWR,CLE,10,139,7.63,3.6,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+LGA,CMH,10,197,6.56,3.55,479.0,La Guardia,Port Columbus Intl
+EWR,DTW,9,263,13.6,3.52,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+EWR,SAN,8,114,15.79,3.48,2425.0,Newark Liberty Intl,San Diego Intl
+LGA,ATL,2,798,3.2,3.45,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,PIT,11,111,9.52,3.42,335.0,La Guardia,Pittsburgh Intl
+JFK,PBI,1,140,9.41,3.4,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,ATL,10,429,8.68,3.38,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+EWR,MSP,5,204,14.82,3.34,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+JFK,AUS,5,124,10.25,3.33,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,BOS,8,523,11.9,3.31,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+LGA,DEN,10,314,6.71,3.31,1620.0,La Guardia,Denver Intl
+LGA,MIA,7,484,12.81,3.3,1096.0,La Guardia,Miami Intl
+JFK,DTW,8,121,19.47,3.28,509.0,John F Kennedy Intl,Detroit Metro Wayne Co
+LGA,CLE,5,194,9.84,3.28,419.0,La Guardia,Cleveland Hopkins Intl
+JFK,LAS,11,318,2.87,3.26,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,PBI,11,129,7.52,3.22,1028.0,John F Kennedy Intl,Palm Beach Intl
+EWR,DFW,2,275,8.98,3.22,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+EWR,IAH,10,340,8.93,3.22,1400.0,Newark Liberty Intl,George Bush Intercontinental
+LGA,CLE,1,182,8.3,3.2,419.0,La Guardia,Cleveland Hopkins Intl
+JFK,SAN,4,136,9.18,3.19,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,CLT,5,246,7.05,3.17,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,DEN,3,249,13.86,3.13,1605.0,Newark Liberty Intl,Denver Intl
+EWR,MCO,3,459,10.78,3.03,937.0,Newark Liberty Intl,Orlando Intl
+LGA,ATL,1,878,2.17,3.03,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+LGA,CLT,11,534,4.52,3.02,544.0,La Guardia,Charlotte Douglas Intl
+JFK,ORD,11,179,9.63,2.97,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,BOS,8,476,11.63,2.95,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+LGA,MSP,8,325,8.66,2.93,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,PBI,1,248,9.26,2.93,1023.0,Newark Liberty Intl,Palm Beach Intl
+EWR,DTW,10,284,8.67,2.9,488.0,Newark Liberty Intl,Detroit Metro Wayne Co
+JFK,ATL,11,151,4.78,2.9,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+JFK,SAN,8,150,10.54,2.9,2446.0,John F Kennedy Intl,San Diego Intl
+EWR,MIA,5,230,12.94,2.86,1085.0,Newark Liberty Intl,Miami Intl
+LGA,DCA,1,361,0.3,2.84,214.0,La Guardia,Ronald Reagan Washington Natl
+LGA,MSP,10,316,2.37,2.81,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,PHX,1,243,7.66,2.81,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+LGA,ORD,5,816,17.32,2.8,733.0,La Guardia,Chicago Ohare Intl
+LGA,DEN,3,332,13.39,2.78,1620.0,La Guardia,Denver Intl
+LGA,DFW,7,403,7.26,2.77,1389.0,La Guardia,Dallas Fort Worth Intl
+LGA,ORD,2,554,12.33,2.76,733.0,La Guardia,Chicago Ohare Intl
+EWR,MIA,8,206,12.64,2.75,1085.0,Newark Liberty Intl,Miami Intl
+LGA,ORD,11,770,5.67,2.74,733.0,La Guardia,Chicago Ohare Intl
+LGA,CMH,5,169,7.52,2.74,479.0,La Guardia,Port Columbus Intl
+JFK,SAN,10,149,5.65,2.73,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,PHX,8,152,13.34,2.72,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+EWR,LAS,11,156,8.67,2.71,2227.0,Newark Liberty Intl,Mc Carran Intl
+JFK,MCO,3,496,8.08,2.69,944.0,John F Kennedy Intl,Orlando Intl
+JFK,BOS,3,495,7.31,2.65,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+JFK,MIA,4,270,7.53,2.51,1089.0,John F Kennedy Intl,Miami Intl
+LGA,ATL,10,853,4.66,2.47,762.0,La Guardia,Hartsfield Jackson Atlanta Intl
+JFK,SYR,9,110,7.38,2.38,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+LGA,MSP,3,310,13.41,2.35,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,MCO,5,363,10.45,2.35,937.0,Newark Liberty Intl,Orlando Intl
+LGA,CLT,2,400,2.44,2.32,544.0,La Guardia,Charlotte Douglas Intl
+JFK,SAN,11,137,3.72,2.31,2446.0,John F Kennedy Intl,San Diego Intl
+EWR,DFW,8,255,13.2,2.3,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+LGA,BNA,3,254,9.07,2.29,764.0,La Guardia,Nashville Intl
+EWR,LAS,10,193,7.93,2.29,2227.0,Newark Liberty Intl,Mc Carran Intl
+EWR,MSY,11,139,11.52,2.26,1167.0,Newark Liberty Intl,Louis Armstrong New Orleans Intl
+EWR,CHS,11,114,4.91,2.25,628.0,Newark Liberty Intl,Charleston Afb Intl
+LGA,MCO,1,297,5.94,2.13,950.0,La Guardia,Orlando Intl
+LGA,DFW,1,437,5.15,2.11,1389.0,La Guardia,Dallas Fort Worth Intl
+LGA,CMH,9,186,4.88,2.1,479.0,La Guardia,Port Columbus Intl
+LGA,MKE,1,138,5.23,2.1,738.0,La Guardia,General Mitchell Intl
+EWR,BNA,11,207,8.49,2.07,748.0,Newark Liberty Intl,Nashville Intl
+JFK,LAX,4,935,10.16,2.06,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,DCA,10,277,8.85,2.06,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+JFK,SFO,8,725,8.74,2.05,2586.0,John F Kennedy Intl,San Francisco Intl
+LGA,DFW,12,389,6.29,2.04,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,MDW,2,162,8.99,2.03,711.0,Newark Liberty Intl,Chicago Midway Intl
+JFK,SFO,11,673,7.42,1.97,2586.0,John F Kennedy Intl,San Francisco Intl
+LGA,DCA,2,380,1.9,1.93,214.0,La Guardia,Ronald Reagan Washington Natl
+JFK,ATL,9,155,7.61,1.93,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,LAX,10,444,5.78,1.93,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,PHX,10,180,7.66,1.92,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+EWR,ORD,10,515,8.29,1.88,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,PHX,11,223,7.14,1.83,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+JFK,ORD,10,211,8.94,1.7,740.0,John F Kennedy Intl,Chicago Ohare Intl
+EWR,JAX,11,111,7.77,1.7,820.0,Newark Liberty Intl,Jacksonville Intl
+EWR,SJU,6,110,11.47,1.66,1608.0,Newark Liberty Intl,
+EWR,IAH,8,331,9.4,1.66,1400.0,Newark Liberty Intl,George Bush Intercontinental
+EWR,ORD,2,475,10.2,1.59,719.0,Newark Liberty Intl,Chicago Ohare Intl
+LGA,MSP,11,298,0.2,1.56,1020.0,La Guardia,Minneapolis St Paul Intl
+LGA,IAH,2,231,3.91,1.55,1416.0,La Guardia,George Bush Intercontinental
+EWR,RDU,6,120,6.72,1.5,416.0,Newark Liberty Intl,Raleigh Durham Intl
+LGA,STL,1,150,4.94,1.46,888.0,La Guardia,Lambert St Louis Intl
+JFK,MSY,5,127,13.33,1.46,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+JFK,SJU,3,428,9.89,1.43,1598.0,John F Kennedy Intl,
+LGA,CLT,5,482,6.46,1.42,544.0,La Guardia,Charlotte Douglas Intl
+LGA,CLE,3,171,8.19,1.41,419.0,La Guardia,Cleveland Hopkins Intl
+LGA,DEN,2,276,11.8,1.4,1620.0,La Guardia,Denver Intl
+JFK,DCA,11,260,3.84,1.35,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+LGA,DCA,3,411,2.14,1.33,214.0,La Guardia,Ronald Reagan Washington Natl
+EWR,SJU,3,124,8.54,1.3,1608.0,Newark Liberty Intl,
+EWR,IAD,9,110,11.41,1.25,212.0,Newark Liberty Intl,Washington Dulles Intl
+EWR,LAS,6,175,13.51,1.22,2227.0,Newark Liberty Intl,Mc Carran Intl
+JFK,ATL,2,141,6.3,1.2,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,FLL,1,370,7.08,1.14,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+LGA,CLE,11,153,2.24,1.05,419.0,La Guardia,Cleveland Hopkins Intl
+EWR,LAX,8,526,9.06,1.03,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,LAX,8,979,8.5,1.03,2475.0,John F Kennedy Intl,Los Angeles Intl
+EWR,DEN,10,239,8.16,1.0,1605.0,Newark Liberty Intl,Denver Intl
+EWR,IAH,3,353,10.05,0.95,1400.0,Newark Liberty Intl,George Bush Intercontinental
+EWR,RDU,8,105,6.78,0.92,416.0,Newark Liberty Intl,Raleigh Durham Intl
+JFK,MIA,12,289,11.65,0.91,1089.0,John F Kennedy Intl,Miami Intl
+JFK,BWI,3,123,9.37,0.9,184.0,John F Kennedy Intl,Baltimore Washington Intl
+EWR,SFO,1,218,9.77,0.89,2565.0,Newark Liberty Intl,San Francisco Intl
+LGA,DTW,2,388,5.45,0.81,502.0,La Guardia,Detroit Metro Wayne Co
+LGA,DTW,3,425,9.25,0.8,502.0,La Guardia,Detroit Metro Wayne Co
+LGA,BOS,6,365,2.19,0.76,184.0,La Guardia,General Edward Lawrence Logan Intl
+LGA,PBI,11,240,6.52,0.71,1035.0,La Guardia,Palm Beach Intl
+LGA,RDU,9,325,2.99,0.7,431.0,La Guardia,Raleigh Durham Intl
+EWR,AUS,3,127,12.5,0.66,1504.0,Newark Liberty Intl,Austin Bergstrom Intl
+LGA,MDW,2,154,15.18,0.62,725.0,La Guardia,Chicago Midway Intl
+JFK,SJU,2,378,9.45,0.59,1598.0,John F Kennedy Intl,
+JFK,PHX,1,126,9.54,0.58,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,IAD,9,234,7.4,0.57,228.0,John F Kennedy Intl,Washington Dulles Intl
+LGA,DCA,11,379,0.67,0.54,214.0,La Guardia,Ronald Reagan Washington Natl
+JFK,RDU,10,270,7.5,0.52,427.0,John F Kennedy Intl,Raleigh Durham Intl
+EWR,CLE,9,137,8.36,0.51,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,LAX,3,218,12.7,0.5,2454.0,Newark Liberty Intl,Los Angeles Intl
+EWR,IAH,5,342,8.9,0.49,1400.0,Newark Liberty Intl,George Bush Intercontinental
+LGA,DEN,9,297,10.59,0.47,1620.0,La Guardia,Denver Intl
+JFK,MIA,3,285,10.72,0.45,1089.0,John F Kennedy Intl,Miami Intl
+JFK,LAX,11,907,3.33,0.45,2475.0,John F Kennedy Intl,Los Angeles Intl
+EWR,ORD,11,421,4.82,0.44,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,MSP,11,225,5.54,0.4,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,CLT,3,468,4.85,0.37,544.0,La Guardia,Charlotte Douglas Intl
+LGA,IAD,9,168,6.83,0.34,229.0,La Guardia,Washington Dulles Intl
+EWR,BOS,2,391,8.72,0.33,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+JFK,PBI,9,114,10.37,0.21,1028.0,John F Kennedy Intl,Palm Beach Intl
+LGA,IAH,5,254,6.0,0.2,1416.0,La Guardia,George Bush Intercontinental
+JFK,TPA,1,215,4.35,0.19,1005.0,John F Kennedy Intl,Tampa Intl
+LGA,MSP,2,283,10.13,0.18,1020.0,La Guardia,Minneapolis St Paul Intl
+EWR,ATL,9,406,8.11,0.15,746.0,Newark Liberty Intl,Hartsfield Jackson Atlanta Intl
+LGA,CLE,9,195,5.95,0.11,419.0,La Guardia,Cleveland Hopkins Intl
+JFK,CLT,11,263,4.87,0.1,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+LGA,BOS,3,381,-0.03,0.08,184.0,La Guardia,General Edward Lawrence Logan Intl
+EWR,PBI,9,118,8.93,0.04,1023.0,Newark Liberty Intl,Palm Beach Intl
+LGA,MCO,5,307,7.11,0.01,950.0,La Guardia,Orlando Intl
+EWR,CLE,3,181,9.79,-0.02,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,DEN,9,231,11.49,-0.04,1605.0,Newark Liberty Intl,Denver Intl
+LGA,FLL,11,322,2.3,-0.04,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+EWR,DFW,11,237,7.42,-0.09,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+EWR,CLE,2,162,5.26,-0.1,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+LGA,BOS,12,269,0.93,-0.16,184.0,La Guardia,General Edward Lawrence Logan Intl
+EWR,BOS,10,471,6.99,-0.19,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+EWR,CLE,11,132,5.94,-0.19,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+EWR,CLT,11,390,3.44,-0.2,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+JFK,SEA,8,235,7.61,-0.21,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,MIA,2,256,9.33,-0.25,1089.0,John F Kennedy Intl,Miami Intl
+LGA,DTW,1,429,2.01,-0.29,502.0,La Guardia,Detroit Metro Wayne Co
+JFK,RDU,11,234,4.4,-0.32,427.0,John F Kennedy Intl,Raleigh Durham Intl
+JFK,RSW,11,106,3.67,-0.35,1074.0,John F Kennedy Intl,Southwest Florida Intl
+EWR,ORD,9,579,8.55,-0.35,719.0,Newark Liberty Intl,Chicago Ohare Intl
+EWR,LAS,7,167,15.86,-0.36,2227.0,Newark Liberty Intl,Mc Carran Intl
+EWR,CLE,8,147,10.41,-0.37,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+LGA,DTW,5,424,7.99,-0.37,502.0,La Guardia,Detroit Metro Wayne Co
+EWR,TPA,11,201,3.95,-0.4,997.0,Newark Liberty Intl,Tampa Intl
+LGA,IAH,10,252,5.33,-0.43,1416.0,La Guardia,George Bush Intercontinental
+EWR,DEN,5,240,14.39,-0.45,1605.0,Newark Liberty Intl,Denver Intl
+LGA,CMH,3,166,5.56,-0.45,479.0,La Guardia,Port Columbus Intl
+EWR,CLT,10,443,3.59,-0.53,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+EWR,SEA,11,131,9.6,-0.55,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+JFK,DCA,3,278,6.82,-0.55,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+LGA,ORD,7,792,13.53,-0.58,733.0,La Guardia,Chicago Ohare Intl
+JFK,RDU,9,234,9.02,-0.59,427.0,John F Kennedy Intl,Raleigh Durham Intl
+JFK,BUF,9,338,5.62,-0.63,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+LGA,DFW,2,392,4.02,-0.63,1389.0,La Guardia,Dallas Fort Worth Intl
+JFK,FLL,1,439,7.07,-0.66,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+EWR,SFO,3,218,13.47,-0.67,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,ATL,5,155,8.88,-0.7,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+LGA,DCA,10,424,0.01,-0.74,214.0,La Guardia,Ronald Reagan Washington Natl
+JFK,SEA,1,125,5.05,-0.75,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,PWM,9,111,2.9,-0.77,273.0,John F Kennedy Intl,Portland Intl Jetport
+JFK,ATL,4,151,4.7,-0.79,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+EWR,BOS,1,430,8.99,-0.81,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+EWR,CHS,9,118,7.35,-0.91,628.0,Newark Liberty Intl,Charleston Afb Intl
+LGA,MIA,5,483,8.86,-0.91,1096.0,La Guardia,Miami Intl
+LGA,DFW,8,401,7.58,-0.91,1389.0,La Guardia,Dallas Fort Worth Intl
+JFK,BTV,1,123,4.6,-0.93,266.0,John F Kennedy Intl,Burlington Intl
+EWR,CLE,1,177,2.85,-0.93,404.0,Newark Liberty Intl,Cleveland Hopkins Intl
+JFK,SLC,8,185,7.86,-0.98,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,AUS,10,124,6.57,-0.99,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+EWR,RSW,3,181,7.17,-1.01,1068.0,Newark Liberty Intl,Southwest Florida Intl
+LGA,DCA,9,398,1.64,-1.05,214.0,La Guardia,Ronald Reagan Washington Natl
+LGA,GSO,10,110,10.77,-1.09,461.0,La Guardia,Piedmont Triad
+JFK,SJU,4,378,8.37,-1.11,1598.0,John F Kennedy Intl,
+EWR,PBI,5,153,12.48,-1.13,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,TPA,11,269,3.07,-1.15,1005.0,John F Kennedy Intl,Tampa Intl
+LGA,DTW,8,436,4.81,-1.21,502.0,La Guardia,Detroit Metro Wayne Co
+LGA,STL,5,148,12.79,-1.23,888.0,La Guardia,Lambert St Louis Intl
+JFK,MSY,10,142,6.85,-1.26,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+EWR,LAX,11,429,5.1,-1.28,2454.0,Newark Liberty Intl,Los Angeles Intl
+JFK,FLL,11,318,5.01,-1.32,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+EWR,DAY,9,101,5.14,-1.33,533.0,Newark Liberty Intl,James M Cox Dayton Intl
+LGA,TPA,10,179,4.12,-1.5,1010.0,La Guardia,Tampa Intl
+LGA,IAH,8,253,9.39,-1.53,1416.0,La Guardia,George Bush Intercontinental
+EWR,IAH,11,351,8.42,-1.58,1400.0,Newark Liberty Intl,George Bush Intercontinental
+JFK,SAN,3,112,13.74,-1.58,2446.0,John F Kennedy Intl,San Diego Intl
+LGA,DTW,11,402,3.17,-1.6,502.0,La Guardia,Detroit Metro Wayne Co
+EWR,PBI,11,194,5.94,-1.63,1023.0,Newark Liberty Intl,Palm Beach Intl
+EWR,FLL,11,324,3.37,-1.64,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,SLC,3,191,10.19,-1.64,1990.0,John F Kennedy Intl,Salt Lake City Intl
+EWR,CVG,11,216,1.98,-1.66,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+JFK,SLC,1,166,7.59,-1.67,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,PHX,2,136,9.73,-1.73,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,ORD,9,177,11.54,-1.76,740.0,John F Kennedy Intl,Chicago Ohare Intl
+LGA,MKE,3,118,12.57,-1.8,738.0,La Guardia,General Mitchell Intl
+LGA,BOS,4,388,-0.06,-1.84,184.0,La Guardia,General Edward Lawrence Logan Intl
+LGA,DFW,10,405,-0.09,-1.93,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,MSY,10,119,12.42,-1.95,1167.0,Newark Liberty Intl,Louis Armstrong New Orleans Intl
+EWR,DFW,10,257,6.43,-1.97,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+EWR,BOS,11,424,5.64,-2.0,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+LGA,CLE,10,178,2.82,-2.03,419.0,La Guardia,Cleveland Hopkins Intl
+JFK,SJU,9,336,2.07,-2.12,1598.0,John F Kennedy Intl,
+JFK,BUF,10,349,4.56,-2.22,301.0,John F Kennedy Intl,Buffalo Niagara Intl
+EWR,DFW,3,286,14.49,-2.24,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+EWR,MSP,9,221,7.8,-2.32,1008.0,Newark Liberty Intl,Minneapolis St Paul Intl
+LGA,FLL,10,310,4.96,-2.33,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+JFK,SAN,2,100,9.78,-2.44,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,SFO,3,666,8.7,-2.46,2586.0,John F Kennedy Intl,San Francisco Intl
+LGA,DTW,10,436,3.87,-2.47,502.0,La Guardia,Detroit Metro Wayne Co
+LGA,DFW,11,374,0.85,-2.52,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,LAS,8,203,12.29,-2.54,2227.0,Newark Liberty Intl,Mc Carran Intl
+LGA,ORD,8,805,7.49,-2.55,733.0,La Guardia,Chicago Ohare Intl
+JFK,MSY,11,138,4.88,-2.56,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+EWR,TPA,10,178,5.79,-2.56,997.0,Newark Liberty Intl,Tampa Intl
+JFK,AUS,11,121,2.5,-2.59,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,SLC,11,165,3.3,-2.59,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,LAS,10,369,2.21,-2.61,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,LAX,10,965,3.59,-2.66,2475.0,John F Kennedy Intl,Los Angeles Intl
+LGA,MCO,9,284,8.33,-2.68,950.0,La Guardia,Orlando Intl
+JFK,BOS,11,481,3.44,-2.69,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+JFK,SFO,9,701,8.18,-2.73,2586.0,John F Kennedy Intl,San Francisco Intl
+JFK,SEA,9,197,7.72,-2.75,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+LGA,BOS,5,376,-0.32,-2.81,184.0,La Guardia,General Edward Lawrence Logan Intl
+JFK,SJU,5,350,5.39,-2.81,1598.0,John F Kennedy Intl,
+EWR,BOS,9,469,4.78,-2.83,200.0,Newark Liberty Intl,General Edward Lawrence Logan Intl
+LGA,IAH,11,230,5.62,-2.84,1416.0,La Guardia,George Bush Intercontinental
+EWR,PBI,10,151,7.41,-2.85,1023.0,Newark Liberty Intl,Palm Beach Intl
+JFK,ROC,10,120,0.46,-2.93,264.0,John F Kennedy Intl,Greater Rochester Intl
+EWR,MCI,9,107,9.66,-2.95,1092.0,Newark Liberty Intl,Kansas City Intl
+LGA,MKE,2,123,9.14,-2.96,738.0,La Guardia,General Mitchell Intl
+JFK,DCA,9,269,5.12,-2.97,213.0,John F Kennedy Intl,Ronald Reagan Washington Natl
+JFK,BOS,1,486,5.89,-2.98,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+LGA,CLT,9,568,3.8,-3.0,544.0,La Guardia,Charlotte Douglas Intl
+JFK,SYR,10,107,1.83,-3.15,209.0,John F Kennedy Intl,Syracuse Hancock Intl
+JFK,CHS,8,109,5.15,-3.17,636.0,John F Kennedy Intl,Charleston Afb Intl
+JFK,SAN,1,114,7.67,-3.22,2446.0,John F Kennedy Intl,San Diego Intl
+EWR,PHX,3,252,10.22,-3.23,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,PHX,9,195,11.95,-3.23,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+JFK,BTV,10,119,0.0,-3.33,266.0,John F Kennedy Intl,Burlington Intl
+LGA,BOS,9,360,-1.46,-3.38,184.0,La Guardia,General Edward Lawrence Logan Intl
+JFK,ATL,10,166,2.37,-3.42,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+JFK,PHX,5,174,8.43,-3.54,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,MIA,5,278,7.1,-3.54,1089.0,John F Kennedy Intl,Miami Intl
+JFK,MCO,11,445,2.67,-3.54,944.0,John F Kennedy Intl,Orlando Intl
+JFK,ATL,3,155,4.38,-3.58,760.0,John F Kennedy Intl,Hartsfield Jackson Atlanta Intl
+JFK,MIA,8,283,7.41,-3.62,1089.0,John F Kennedy Intl,Miami Intl
+EWR,DEN,11,224,5.79,-3.65,1605.0,Newark Liberty Intl,Denver Intl
+EWR,ORD,3,493,10.16,-3.68,719.0,Newark Liberty Intl,Chicago Ohare Intl
+LGA,BOS,8,378,-2.12,-3.76,184.0,La Guardia,General Edward Lawrence Logan Intl
+EWR,SFO,10,489,6.99,-3.78,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,LAS,5,388,10.26,-3.8,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,BOS,9,478,3.16,-3.81,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+EWR,RSW,5,120,3.6,-3.83,1068.0,Newark Liberty Intl,Southwest Florida Intl
+JFK,CLT,10,244,1.79,-3.87,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+JFK,ROC,11,114,-0.03,-3.89,264.0,John F Kennedy Intl,Greater Rochester Intl
+JFK,MIA,1,282,10.45,-3.95,1089.0,John F Kennedy Intl,Miami Intl
+LGA,MCO,10,297,4.25,-4.09,950.0,La Guardia,Orlando Intl
+LGA,IAH,3,259,8.14,-4.09,1416.0,La Guardia,George Bush Intercontinental
+LGA,MIA,1,451,3.58,-4.19,1096.0,La Guardia,Miami Intl
+EWR,SFO,11,488,6.19,-4.21,2565.0,Newark Liberty Intl,San Francisco Intl
+LGA,BOS,1,329,-0.87,-4.22,184.0,La Guardia,General Edward Lawrence Logan Intl
+LGA,FLL,9,297,7.09,-4.25,1076.0,La Guardia,Fort Lauderdale Hollywood Intl
+JFK,TPA,10,249,4.16,-4.26,1005.0,John F Kennedy Intl,Tampa Intl
+EWR,FLL,10,291,7.98,-4.27,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+LGA,BNA,9,296,7.67,-4.28,764.0,La Guardia,Nashville Intl
+LGA,DTW,9,410,5.05,-4.32,502.0,La Guardia,Detroit Metro Wayne Co
+JFK,SJU,1,411,7.41,-4.34,1598.0,John F Kennedy Intl,
+EWR,MIA,11,215,7.81,-4.36,1085.0,Newark Liberty Intl,Miami Intl
+JFK,MCO,1,456,4.39,-4.36,944.0,John F Kennedy Intl,Orlando Intl
+JFK,CLT,9,234,5.65,-4.38,541.0,John F Kennedy Intl,Charlotte Douglas Intl
+EWR,RSW,2,129,2.51,-4.42,1068.0,Newark Liberty Intl,Southwest Florida Intl
+LGA,ORD,10,878,3.34,-4.42,733.0,La Guardia,Chicago Ohare Intl
+JFK,SLC,9,175,4.94,-4.61,1990.0,John F Kennedy Intl,Salt Lake City Intl
+EWR,SEA,8,193,8.93,-4.69,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+EWR,MCO,10,393,6.11,-4.72,937.0,Newark Liberty Intl,Orlando Intl
+LGA,ORD,3,664,9.82,-4.77,733.0,La Guardia,Chicago Ohare Intl
+JFK,BOS,10,495,2.36,-4.79,187.0,John F Kennedy Intl,General Edward Lawrence Logan Intl
+LGA,MCO,11,289,0.54,-4.83,950.0,La Guardia,Orlando Intl
+LGA,STL,2,128,3.86,-4.97,888.0,La Guardia,Lambert St Louis Intl
+LGA,MKE,5,118,12.56,-4.98,738.0,La Guardia,General Mitchell Intl
+LGA,DEN,5,309,11.75,-4.99,1620.0,La Guardia,Denver Intl
+EWR,STL,9,214,6.29,-5.0,872.0,Newark Liberty Intl,Lambert St Louis Intl
+EWR,LAX,2,196,7.56,-5.1,2454.0,Newark Liberty Intl,Los Angeles Intl
+EWR,DFW,5,273,11.4,-5.11,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+EWR,SJU,4,119,5.27,-5.24,1608.0,Newark Liberty Intl,
+EWR,RSW,1,131,4.93,-5.32,1068.0,Newark Liberty Intl,Southwest Florida Intl
+LGA,TPA,11,173,-1.3,-5.34,1010.0,La Guardia,Tampa Intl
+EWR,LAS,3,150,7.8,-5.37,2227.0,Newark Liberty Intl,Mc Carran Intl
+EWR,MCO,11,417,3.06,-5.61,937.0,Newark Liberty Intl,Orlando Intl
+LGA,MIA,8,486,7.24,-5.65,1096.0,La Guardia,Miami Intl
+EWR,LAS,2,150,9.03,-5.74,2227.0,Newark Liberty Intl,Mc Carran Intl
+LGA,BOS,10,391,-2.22,-5.78,184.0,La Guardia,General Edward Lawrence Logan Intl
+JFK,MCO,9,410,6.54,-5.86,944.0,John F Kennedy Intl,Orlando Intl
+JFK,LAS,3,304,7.03,-5.92,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,LAS,9,357,3.29,-5.93,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,MCO,10,423,2.25,-5.95,944.0,John F Kennedy Intl,Orlando Intl
+JFK,LAX,5,960,12.63,-6.11,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,SFO,10,731,5.58,-6.14,2586.0,John F Kennedy Intl,San Francisco Intl
+EWR,FLL,9,228,9.41,-6.17,1065.0,Newark Liberty Intl,Fort Lauderdale Hollywood Intl
+JFK,SFO,1,671,3.8,-6.18,2586.0,John F Kennedy Intl,San Francisco Intl
+EWR,CLT,9,420,3.87,-6.21,529.0,Newark Liberty Intl,Charlotte Douglas Intl
+JFK,PBI,10,112,1.75,-6.27,1028.0,John F Kennedy Intl,Palm Beach Intl
+JFK,SEA,4,151,7.38,-6.29,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,PHX,3,181,6.57,-6.32,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+LGA,BOS,11,330,-3.39,-6.33,184.0,La Guardia,General Edward Lawrence Logan Intl
+EWR,IND,9,119,0.5,-6.35,645.0,Newark Liberty Intl,Indianapolis Intl
+LGA,BOS,2,344,-2.8,-6.35,184.0,La Guardia,General Edward Lawrence Logan Intl
+JFK,LAX,1,937,3.09,-6.4,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,SAN,9,141,7.0,-6.46,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,LAX,3,960,6.26,-6.57,2475.0,John F Kennedy Intl,Los Angeles Intl
+EWR,PHX,2,218,3.76,-6.66,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+EWR,CVG,9,215,2.16,-6.8,569.0,Newark Liberty Intl,Cincinnati Northern Kentucky Intl
+LGA,MIA,11,489,0.81,-6.8,1096.0,La Guardia,Miami Intl
+JFK,SLC,10,177,3.15,-6.98,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,SJU,10,346,0.83,-7.04,1598.0,John F Kennedy Intl,
+JFK,SEA,11,148,1.53,-7.2,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,SJU,11,369,4.73,-7.33,1598.0,John F Kennedy Intl,
+JFK,PWM,10,107,-2.81,-7.52,273.0,John F Kennedy Intl,Portland Intl Jetport
+EWR,SFO,9,495,7.94,-7.61,2565.0,Newark Liberty Intl,San Francisco Intl
+JFK,SLC,4,181,2.31,-7.7,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,TPA,9,241,4.29,-7.79,1005.0,John F Kennedy Intl,Tampa Intl
+EWR,PHX,5,226,8.9,-7.89,2133.0,Newark Liberty Intl,Phoenix Sky Harbor Intl
+LGA,PBI,10,185,3.23,-7.91,1035.0,La Guardia,Palm Beach Intl
+LGA,DFW,5,425,6.88,-7.92,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,MIA,9,174,7.3,-7.98,1085.0,Newark Liberty Intl,Miami Intl
+JFK,SAN,5,144,2.46,-7.98,2446.0,John F Kennedy Intl,San Diego Intl
+JFK,MIA,11,268,6.01,-8.01,1089.0,John F Kennedy Intl,Miami Intl
+LGA,STL,3,140,6.61,-8.11,888.0,La Guardia,Lambert St Louis Intl
+JFK,LAX,2,834,4.96,-8.2,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,LAX,9,925,6.97,-8.27,2475.0,John F Kennedy Intl,Los Angeles Intl
+JFK,PHX,11,176,1.8,-8.44,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,SFO,2,597,6.25,-8.52,2586.0,John F Kennedy Intl,San Francisco Intl
+LGA,ORD,9,826,3.85,-8.52,733.0,La Guardia,Chicago Ohare Intl
+EWR,RSW,11,119,-0.68,-8.53,1068.0,Newark Liberty Intl,Southwest Florida Intl
+JFK,LAS,1,284,1.99,-8.57,2248.0,John F Kennedy Intl,Mc Carran Intl
+LGA,MIA,9,469,3.64,-8.69,1096.0,La Guardia,Miami Intl
+EWR,BNA,9,212,5.77,-8.72,748.0,Newark Liberty Intl,Nashville Intl
+EWR,TPA,9,155,6.82,-8.72,997.0,Newark Liberty Intl,Tampa Intl
+LGA,MIA,10,489,0.86,-8.94,1096.0,La Guardia,Miami Intl
+EWR,SEA,2,112,5.46,-8.94,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+EWR,LAX,5,493,10.76,-9.19,2454.0,Newark Liberty Intl,Los Angeles Intl
+EWR,MCO,9,328,6.17,-9.38,937.0,Newark Liberty Intl,Orlando Intl
+EWR,LAX,9,459,4.2,-9.62,2454.0,Newark Liberty Intl,Los Angeles Intl
+LGA,DFW,3,436,5.22,-9.77,1389.0,La Guardia,Dallas Fort Worth Intl
+LGA,PBI,9,169,1.59,-9.77,1035.0,La Guardia,Palm Beach Intl
+EWR,JAX,9,109,3.7,-9.9,820.0,Newark Liberty Intl,Jacksonville Intl
+JFK,SEA,5,164,8.27,-9.92,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+LGA,STL,9,141,-0.51,-9.94,888.0,La Guardia,Lambert St Louis Intl
+EWR,MIA,10,203,3.46,-10.13,1085.0,Newark Liberty Intl,Miami Intl
+EWR,IAH,9,306,7.39,-10.13,1400.0,Newark Liberty Intl,George Bush Intercontinental
+LGA,TPA,9,169,2.08,-10.33,1010.0,La Guardia,Tampa Intl
+JFK,LAS,2,258,5.31,-10.43,2248.0,John F Kennedy Intl,Mc Carran Intl
+JFK,FLL,9,282,3.41,-10.5,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+JFK,SFO,5,696,8.86,-10.54,2586.0,John F Kennedy Intl,San Francisco Intl
+JFK,MSY,9,136,7.43,-10.71,1182.0,John F Kennedy Intl,Louis Armstrong New Orleans Intl
+EWR,SEA,5,171,8.39,-10.89,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+EWR,SFO,5,502,12.72,-11.01,2565.0,Newark Liberty Intl,San Francisco Intl
+EWR,SFO,2,194,5.78,-11.05,2565.0,Newark Liberty Intl,San Francisco Intl
+EWR,SEA,10,150,9.23,-11.53,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+JFK,SLC,5,183,4.61,-12.28,1990.0,John F Kennedy Intl,Salt Lake City Intl
+JFK,FLL,10,294,1.06,-12.29,1069.0,John F Kennedy Intl,Fort Lauderdale Hollywood Intl
+JFK,BWI,9,118,0.64,-12.42,184.0,John F Kennedy Intl,Baltimore Washington Intl
+JFK,JAX,9,107,2.45,-12.5,828.0,John F Kennedy Intl,Jacksonville Intl
+EWR,LAS,5,180,12.64,-12.6,2227.0,Newark Liberty Intl,Mc Carran Intl
+LGA,IAH,9,240,4.85,-12.61,1416.0,La Guardia,George Bush Intercontinental
+JFK,AUS,9,120,7.44,-12.73,1521.0,John F Kennedy Intl,Austin Bergstrom Intl
+JFK,SEA,3,153,4.48,-12.81,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+EWR,LAS,9,189,5.62,-13.17,2227.0,Newark Liberty Intl,Mc Carran Intl
+LGA,DFW,9,390,3.87,-13.41,1389.0,La Guardia,Dallas Fort Worth Intl
+EWR,DFW,9,249,7.03,-14.16,1372.0,Newark Liberty Intl,Dallas Fort Worth Intl
+JFK,MIA,9,269,7.16,-14.44,1089.0,John F Kennedy Intl,Miami Intl
+JFK,MIA,10,279,5.32,-15.23,1089.0,John F Kennedy Intl,Miami Intl
+JFK,SEA,2,112,7.64,-15.76,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,PHX,9,141,5.16,-16.4,2153.0,John F Kennedy Intl,Phoenix Sky Harbor Intl
+JFK,SEA,10,187,1.86,-16.56,2422.0,John F Kennedy Intl,Seattle Tacoma Intl
+JFK,SLC,2,157,2.53,-16.56,1990.0,John F Kennedy Intl,Salt Lake City Intl
+EWR,SEA,9,164,5.3,-18.04,2402.0,Newark Liberty Intl,Seattle Tacoma Intl
+EWR,MSY,9,118,8.17,-18.26,1167.0,Newark Liberty Intl,Louis Armstrong New Orleans Intl
